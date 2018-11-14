@@ -2,7 +2,7 @@
 
 Source code for my [website](https://francislawlor.com). Easy to deploy with [docker](https://docs.docker.com/get-started/).
 
-#### Deploy
+## Deploy
 
 From root execute:
 
